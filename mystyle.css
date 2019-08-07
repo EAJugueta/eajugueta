@@ -50,8 +50,9 @@ body {
 	
 .navbar-nav{
 	font-family: 'Montserrat', sans-serif !important;
-    font-size: 30px;
+    font-size: 20px;
 	vertical-align: bottom;	
+    margin-top: 10px;	
     margin-left: 450px;
     font-color: #414241;
 }
