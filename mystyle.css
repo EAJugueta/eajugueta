@@ -8,6 +8,10 @@
 	width: 400px;
 	}	
 
+a:link {
+  text-decoration: none;
+}
+
 .hr1{
 	 line-height: 1px;
 	 color: #d6d7d8;
